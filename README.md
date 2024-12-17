@@ -4,5 +4,6 @@
 - 🌱 I’m currently learning NodeJS and ExpressJS
 - 👯 I’m looking to collaborate on web development.
 - 📫 How to reach me :
--   -> LinkedIn: [linkedin.com/in/aditya-paliwal-83b700200](https://www.linkedin.com/in/aditya-paliwal-83b700200/)
--   -> Gmail: paliwaladitya2@gmail.com
+💼 LinkedIn: linkedin.com/in/aryank-gupta
+📧 Email: aryankgupta57@gmail.com
+-   Let’s build something impactful together 🚀!
