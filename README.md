@@ -1,5 +1,5 @@
-👋 Hi, I’m Aryank Gupta
-🎓 Postgraduate Student in AI & ML | 💻 Data Engineer | 🤖 AI/ML Enthusiast
+-👋 Hi, I’m Aryank Gupta
+-🎓 Postgraduate Student in AI & ML | 💻 Data Engineer | 🤖 AI/ML Enthusiast
 
 🚀 About Me: 
 Results-driven Data Engineer with a solid foundation in Python, SQL, Machine Learning, and data pipeline optimization.
