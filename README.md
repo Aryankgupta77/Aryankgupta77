@@ -1,5 +1,5 @@
 - Hi there 👋 I am @aryankgupta_57
-- 🔭 I’m currently working on NodeJS and PHP Projects
+- 🔭 I’m currently working on Python Projects
 - 🌱 I’m currently learning NodeJS and ExpressJS
 - 👯 I’m looking to collaborate on web development.
 - 📫 How to reach me :
