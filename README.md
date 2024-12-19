@@ -9,7 +9,7 @@ Currently pursuing a Master’s in Artificial Intelligence and Machine Learning 
 🌱 I’m currently learning MLOps with Docker & Kubernetes and exploring Generative AI.
 👯 I’m looking to collaborate on Data Science, AI/ML, and backend development projects.
 
-📫 Fell free to reach me here:
+📫 Feel free to reach me here:
 💼 LinkedIn: linkedin.com/in/aryank-gupta
 📧 Email: aryankgupta57@gmail.com
 
