@@ -11,6 +11,6 @@ Currently pursuing a Master’s in Artificial Intelligence and Machine Learning 
 
 📫 How to reach me:
 💼 LinkedIn: linkedin.com/in/aryank-gupta
-📧 Email: aryankgupta57@gmail.com
+📧 Email: aryankgupta57@gmail.com.
 
 Let’s build something impactful together 🚀!
