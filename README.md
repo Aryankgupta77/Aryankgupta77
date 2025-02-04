@@ -1,8 +1,8 @@
-👋 Hi, I’m Aryank Gupta
+ Hi, I’m Aryank Gupta
 🎓 Postgraduate Student in AI & ML | 💻 Data Engineer | 🤖 AI/ML Enthusiast
 
 🚀 About Me: 
-Results-driven Data Engineer with a solid foundation in Python, SQL, Machine Learning, and data pipeline optimization.
+Results-driven Professional with a solid foundation in Python, SQL, Machine Learning, and data Science.
 Currently pursuing a Master’s in Artificial Intelligence and Machine Learning at University of Limerick.
 
 🔭 I’m currently working on AI, Data Engineering, and Python Projects.
