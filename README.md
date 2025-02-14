@@ -10,5 +10,4 @@ Always thrive to contribute and expand my understanding in AI, Machine Learning,
 Feel free to reach me here:
 
 💼 LinkedIn: linkedin.com/in/aryank-gupta
-
 📧 Email: aryankgupta57@gmail.com
