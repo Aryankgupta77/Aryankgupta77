@@ -8,5 +8,7 @@ Passionate about solving complex problems, and finding creative solutions. My go
 Always thrive to contribute and expand my understanding in AI, Machine Learning, and Deep Learning, focusing on building scalable and intelligent solutions that can bring subsequent change. 
 
 Feel free to reach me here:
+
 💼 LinkedIn: linkedin.com/in/aryank-gupta
+
 📧 Email: aryankgupta57@gmail.com
